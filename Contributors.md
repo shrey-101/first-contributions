@@ -95,6 +95,7 @@ Roneal Denila
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
 - Elias Tokola
+- Miriam 
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
 - [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Sriram Kilambi](https://github.com/Sriram-Kilambi)
